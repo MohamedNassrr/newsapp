@@ -1,0 +1,16 @@
+
+// POST
+// UPDATE
+// DELETE
+
+// GET
+
+//base url : https://newsapi.org/
+// method (url) : v2/top-headlines?
+// Queris : country-eg&category-business&apiKey=a1d09579907b411d9f3e6ffbeed7659c
+
+// https://newsapi.org/v2/top-headlines?country-eg&category-business&apiKey=65f7f556ec76449fa7dc7c0069f040ca
+
+
+
+// https://newsapi.org/v2/everything?q=tesla&apiKey=a1d09579907b411d9f3e6ffbeed7659c
